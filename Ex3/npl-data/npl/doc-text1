@@ -1,0 +1,173 @@
+1
+compact memories have flexible capacities a digital data storage
+system with capacity up to bits and random and or sequential access
+is described
+/
+2
+an electronic analogue computer for solving systems of linear equations
+mathematical derivation of the operating principle and stability
+conditions for a computer consisting of amplifiers
+/
+3
+electronic coordinate transformer circuit details are given for
+the construction of an electronic calculating unit which enables
+the polar coordinates of a vector modulus and cosine or sine of the
+argument to be derived from those of a rectangular system of axes
+/
+4
+the british computer society report of a conference held in cambridge
+june
+/
+5
+millimicrosecond digital computer logic a system of fast pulse
+logic is described which combines the efficiency of transformer coupled
+stages with digit delay tolerances approaching that of dc coupled
+systems logical circuits for or and inverter and reclock are shown
+together with a driver which permits a fan out factor of transistor
+circuits are used through
+/
+6
+binary circuits count backwards or forwards a transistorized module
+is described that can be used to build logical circuits a complete
+reversible counter measures
+/
+7
+d packaging reduces size of electronic units greater component densities
+are obtainable using a module technique in which miniature circuit
+elements are placed side by side with electrical connection mace on
+a three dimensional basis by a spotwelding process
+/
+8
+the square loop ferrite core as a circuit element the shape of the
+output waveforms when the cores are switched is explained by a quantitative
+theory which takes into account the residual loss reasonable
+agreement with experimental evidence is shown
+/
+9
+switching circuits using bidirectional nonlinear impedances a general
+review of circuit logic is developed for a bidirectional nonlinear
+switching element the design of pnp transistor driver sriver stages
+is considered a binary octal decoder circuit and a simple binary
+full adder circuit are discussed as examples
+/
+10
+highspeed microwave switching of semiconductors part
+/
+11
+design of bistable switching circuits using junction transistors
+the relations between the different parameters which affect the switching
+circuit may be obtained by plotting on the same diagram a load
+line and the theoretical curve of the static characteristic of the
+circuit USE OF DIGITAL COMPUTERS IN THE DESIGN OF BAND PASS FILTERS HAVING GIVEN PHASE AND ATTENUATION CHARACTERISTICS
+/
+12
+perturbation of waveguides and cavities by spheres and cylinders
+/
+13
+on the theory of the cavity resonator comprising two confocal paraboloids
+of revolution a solution is found for a system of equations given
+by buchholz USE OF DIGITAL COMPUTERS IN THE DESIGN OF BAND PASS FILTERS HAVING GIVEN PHASE AND ATTENUATION CHARACTERISTICS
+/
+14
+the excitation of cavity resonators by secondary electron resonance
+multiplication experimental investigation of the suitability for
+frequency multiplication of the process analysed in below
+/
+15
+some generalizations of duhamels integral for quadripoles
+/
+16
+the stable and unstable image parameters in quadripole theory the
+definition of stable and unstable image impedances by edldtkeller
+is extended to related parameters and their position in the complex
+plane is determined
+/
+17
+matching quadripoles design formulae are derived for ii andt sections
+and groups of curves are given from which practical design parameters
+can be obtained
+/
+18
+optimum tchebycheff third order filters a theoretical analysis is
+given of a design for the detection of rectangular pulsed signals
+on a background of white noise and it is shown that resulting signal
+noise ratios are smaller than those obtained by the use of optimum
+butterworth filters
+/
+19
+cascade directional filter
+/
+20
+transient response of bandpass filters to modulated signals laurents
+low pass band transformation is used with suitable approximations
+to obtain the response to a suddenly applied carrier the derived
+filter is analysed
+/
+21
+the order of complexity of electrical networks an expression for
+the order i e the number of natural frequencies is derived for
+a rlc network complete sets of dynamically independent network variables
+are obtained from the network equations
+/
+22
+the stability criteria for linear systems the various criteria can
+be obtained and interrelated by means of continued fractions the
+hurwitz determinants are condensed to about half thei original order MATHEMATICAL ANALYSIS AND DESIGN DETAILS OF WAVEGUIDE FED MICROWAVE RADIATIONS
+/
+23
+the efficiency of a ferrite as a microwave mixer it is shown theoretically
+that a polycrystalline ferrite should behave like a single crystal
+sample magnetization measurements taken previously are explained
+by assuming a basic permeability line width of a few gauss and a spread
+in resonant fields from point to point the efficiency appears to
+be lower than for a conventional crystal mixer
+/
+24
+selective properties of an oscillator system synchronized by a harmonic
+signal theoretical investigation of the dependence of the amplitude
+and phase oscillations of an oscillator on the interference of a quasiharmonic
+e m f the effect on the system of harmonic and fluctuation
+noise is briefly examined MEASUREMENT OF DIELECTRIC CONSTANT OF LIQUIDS BY THE USE OF MICROWAVE TECHNIQUES
+/
+25
+on the amplitude fluctuation of oscillations of a selfexcited vale
+oscillator mathematical analysis of the amplitude fluctuations of
+an oscillator due to thermal noise and shot effect for the case of
+weak and strong modes of excitation MEASUREMENT OF DIELECTRIC CONSTANT OF LIQUIDS BY THE USE OF MICROWAVE TECHNIQUES
+/
+26
+short time stability of a quartz crystal oscillator as measured with
+an ammonia maser appreciable improvement in the short time stability
+is achieved by immersing the crystal in liquid helium control of
+the pressure of the gas above the liquid improves the long time stability
+though adversely affecting the short time stability
+/
+27
+the reactance characteristics of concentric line circuits with interrupted
+inner conductor oscillator circuits in which the inner conductor
+is interrupted e g those comprising diskseal valves are investigated
+to determine the reactance as a function of gap and line section lengths
+normally the higher resonant frequencies of the circuit are not harmonics
+of the fundamental frequency
+/
+28
+application of delayed feedback in electronic circuits a short general
+theory is given of a method of generating periodic signals of controlled shape
+two simple applications of a delay line aa feedback loop
+are given the signal frequency depends on the delay time and under
+certain conditions on the triggering frequency and this provides a method
+measuring the delay time of an element in the feedback loop
+/
+29
+use of relaxation oscillators in the generation of frequency modulated
+oscillations an analysis of the operation of a relaxation oscillator
+as a frequency modulator with a series of diode circuits for transformation
+of the triangular waveform into sinusoidal form
+/
+30
+millimicrosecond pulse generator capable of million pulses per second
+the generator has a repetition rate of up to sec pulse rise time
+less than and pulse widths from to the negative output pulse is
+adjustable over a range of to into a load there are facilities for
+gating single pulses and triggering from an outside source
+/
